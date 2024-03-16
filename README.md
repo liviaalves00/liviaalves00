@@ -1,5 +1,6 @@
 
 # Hi, I’m Lívia Alves
+- Não há nada que não possa se aprender/There's nothing you can't learn.
   
 - System Development Student at Federal Institute of Piaui (IFPI)
 - Main Interests:
