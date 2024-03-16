@@ -17,7 +17,7 @@
 - Reach Me:
 
   <div>
-<a href="https://www.linkedin.com/in/l%C3%ADvia-alves-429826274/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a href="liviataina.ltab@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/l%C3%ADvia-alves-429826274/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <a href="mailto:liviataina.ltab@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
         
             
