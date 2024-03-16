@@ -2,7 +2,8 @@
 # Hi, I’m Lívia Alves
   
 - System Development Student at Federal Institute of Piaui (IFPI)
-- Interests in:
+- Main Interests:
+  
    DataBase
   
    Back-End software development
