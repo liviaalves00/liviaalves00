@@ -5,11 +5,11 @@
 - Systems analysis and development student at Federal Institute of Piaui (IFPI)
 - Main Interests:
   
-   DataBase
+   - DataBase
   
-   Back-End software development
+   - Back-End software development
   
-   Full-Stack(overall)
+   - Full-Stack(overall)
 
   
 - I’m currently programming/developing:
