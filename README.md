@@ -1,5 +1,6 @@
 
 # Hi, I’m Lívia Alves
+- IT Technician (IFPI)
 - There's nothing you can't learn - Não há nada que não se possa aprender
   
 - Systems analysis and development student at Federal Institute of Piaui (IFPI)
