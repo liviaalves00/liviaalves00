@@ -1,4 +1,3 @@
-
 # Hi, I’m Lívia Alves
 - IT Technician (IFPI)
 - There's nothing you can't learn - Não há nada que não se possa aprender
@@ -14,16 +13,12 @@
  <div>
   <a href="https://github.com/liviaalves00">
 </div>
-
-<div style="display: inline_block"><br>
-  <img width="54" height="54" src="https://img.icons8.com/nolan/54/javascript.png" alt="javascript"/>
-  <img width="54" height="54" src="https://img.icons8.com/nolan/54/python.png" alt="python"/>
-  <img width="54" height="54" src="https://img.icons8.com/nolan/54/godot.png" alt="godot"/>                 
-</div>
   
 - I’m currently programming/developing:
   
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=liviaalves00&show_icons=true&locale=en&layout=compact&theme=radical" alt="LíviaAlves00" width="465" />
 
 - Reach Me:
 
