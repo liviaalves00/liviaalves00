@@ -11,7 +11,15 @@
    - Back-End software development
   
    - Full-Stack(overall)
+ <div>
+  <a href="https://github.com/liviaalves00">
+</div>
 
+<div style="display: inline_block"><br>
+  <img width="54" height="54" src="https://img.icons8.com/nolan/54/javascript.png" alt="javascript"/>
+  <img width="54" height="54" src="https://img.icons8.com/nolan/54/python.png" alt="python"/>
+  <img width="54" height="54" src="https://img.icons8.com/nolan/54/godot.png" alt="godot"/>                 
+</div>
   
 - I’m currently programming/developing:
   
